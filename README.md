@@ -3,6 +3,7 @@
 🎯 Focusing
 
 - 🚀 Co-Founder of [Spargold GmbH](https://spar.gold)
+- 📚 Founder & Author of [Biolazar.com](https://biolazar.com) — evidence-based longevity & healthspan
 - 🛠️ Building with Next.js, Tailwind CSS, Python & n8n
 - 📍 Based in Hamburg, Germany
 
